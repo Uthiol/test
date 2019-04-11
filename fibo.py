@@ -17,4 +17,4 @@ def fibor(n):
         tab[i]=tab[i-1]+tab[i-2]
         i+=1
         fibor(i)
-print(fibo(10))
+print(fibo(5))
